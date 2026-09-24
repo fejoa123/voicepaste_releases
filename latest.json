@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "0.1.13",
-  "apk": "apks/VoicePaste-0.1.13.apk",
-  "sha256": "e7ed2a5cd024fc20e0e4fccf728268855c7d71e3580ba7a18ff904d642b1209a",
-  "notes": "First version with built-in updates"
+  "versionCode": 14,
+  "versionName": "0.1.14",
+  "apk": "apks/VoicePaste-0.1.14.apk",
+  "sha256": "0728a2c1e43398a37309827e681658694ac6a0d4e7fdb8a3e7f822b24997f611",
+  "notes": "New private signing key (rotated from the old one). Install once by hand over 0.1.13."
 }
