@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.1.14",
-  "apk": "apks/VoicePaste-0.1.14.apk",
-  "sha256": "0728a2c1e43398a37309827e681658694ac6a0d4e7fdb8a3e7f822b24997f611",
-  "notes": "New private signing key (rotated from the old one). Install once by hand over 0.1.13."
+  "versionCode": 15,
+  "versionName": "0.1.15",
+  "apk": "apks/VoicePaste-0.1.15.apk",
+  "sha256": "c0a2df7781e557d52c43760a4ea23df907c71fe4182af6d0865eb8c4dda247fb",
+  "notes": "Lists: when you list things, they come out as a numbered or bulleted list. Plain hyphens instead of invisible non-breaking ones."
 }
