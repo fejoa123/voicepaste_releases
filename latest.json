@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "0.1.15",
-  "apk": "apks/VoicePaste-0.1.15.apk",
-  "sha256": "c0a2df7781e557d52c43760a4ea23df907c71fe4182af6d0865eb8c4dda247fb",
-  "notes": "Lists: when you list things, they come out as a numbered or bulleted list. Plain hyphens instead of invisible non-breaking ones. On 0.1.13 or older? Install this one once by hand (the signing key changed in 0.1.14); updates work from the app after that."
+  "versionCode": 16,
+  "versionName": "0.1.16",
+  "apk": "apks/VoicePaste-0.1.16.apk",
+  "sha256": "686c01e7030f8b0a601087aca4718bf5e57aeb454ae84f066cb24303e77a280b",
+  "notes": "Smoky glass bubble: it gathers out of smoke when the keyboard opens and thins back into smoke when it closes. The smoke drifts inside the glass and becomes your voice while you talk, cooling to blue while it transcribes. Settings → Bubble → Drifting smoke turns the resting drift off."
 }
