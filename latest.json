@@ -1,7 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "0.1.16",
-  "apk": "apks/VoicePaste-0.1.16.apk",
-  "sha256": "686c01e7030f8b0a601087aca4718bf5e57aeb454ae84f066cb24303e77a280b",
-  "notes": "Smoky glass bubble: it gathers out of smoke when the keyboard opens and thins back into smoke when it closes. The smoke drifts inside the glass and becomes your voice while you talk, cooling to blue while it transcribes. Settings → Bubble → Drifting smoke turns the resting drift off."
+  "versionCode": 17,
+  "versionName": "0.1.17",
+  "apk": "apks/VoicePaste-0.1.17.apk",
+  "sha256": "15c8311298109ba8987ec45ea0aa80c57e1ead98a305103ccc0ebb490d15730b",
+  "notes": "Liquid glass bubble: the glass catches the light like a thick lens, and the pill stretches out and gathers back in on a spring, settling with a small wobble. The ✓ and ✕ grow out of the glass, and the resting smoke is calmer. On phones that support window blur (Android 12+, not Samsung), Settings → Bubble → Blur behind the glass makes it see-through."
 }
