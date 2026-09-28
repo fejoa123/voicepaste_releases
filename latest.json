@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "0.1.17",
-  "apk": "apks/VoicePaste-0.1.17.apk",
-  "sha256": "15c8311298109ba8987ec45ea0aa80c57e1ead98a305103ccc0ebb490d15730b",
-  "notes": "Liquid glass bubble: the glass catches the light like a thick lens, and the pill stretches out and gathers back in on a spring, settling with a small wobble. The ✓ and ✕ grow out of the glass, and the resting smoke is calmer. On phones that support window blur (Android 12+, not Samsung), Settings → Bubble → Blur behind the glass makes it see-through."
+  "versionCode": 18,
+  "versionName": "0.1.18",
+  "apk": "apks/VoicePaste-0.1.18.apk",
+  "sha256": "eebc7e079eb76842f7c78e9c349ec11ce890e1d48bbf323470ec97116b7465c1",
+  "notes": "Dictation now types straight into apps whose text box doesn't tell Android it has the cursor (like some Claude app screens), instead of leaving it on the clipboard. If it truly can't find a box, it now says so rather than \"You switched fields\"."
 }
