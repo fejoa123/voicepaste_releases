@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "0.1.18",
-  "apk": "apks/VoicePaste-0.1.18.apk",
-  "sha256": "eebc7e079eb76842f7c78e9c349ec11ce890e1d48bbf323470ec97116b7465c1",
-  "notes": "Dictation now types straight into apps whose text box doesn't tell Android it has the cursor (like some Claude app screens), instead of leaving it on the clipboard. If it truly can't find a box, it now says so rather than \"You switched fields\"."
+  "versionCode": 19,
+  "versionName": "0.1.19",
+  "apk": "apks/VoicePaste-0.1.19.apk",
+  "sha256": "538fcce01e44f0256f33b45ac35edd9f7239285ea68b2c30a76659afc198e9b0",
+  "notes": "Dictating into the Claude app (and other apps whose message box doesn't say it takes several lines) keeps your line breaks and lists, and gets AI-chat formatting instead of being squashed onto one line. Your own Dictionary words now go last in Whisper's hint so they're never cut off, and part numbers with digits are sized properly."
 }
