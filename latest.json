@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "0.1.20",
-  "apk": "apks/VoicePaste-0.1.20.apk",
-  "sha256": "bc7f072563a372e679f819889643cce29ae3fcbb1a0bcc669a384365c2086fe9",
-  "notes": "More natural email paragraphs and speech-pause breaks. Successive recordings fit the text around your cursor, including sentence case, spacing, selected-word replacements and existing signatures. Spoken new paragraph and new line commands take priority. Existing draft text stays on your device."
+  "versionCode": 21,
+  "versionName": "0.1.21",
+  "apk": "apks/VoicePaste-0.1.21.apk",
+  "sha256": "0874f126993ba6b56e9ce20a327e4c4c850d58dcb901b3f106b2d2c9bd5def53",
+  "notes": "Faster lossless audio preparation with unchanged audio quality. Smart Format preserves dictated wording, names, numbers and negations. Spelling corrections now appear as suggestions for review in Dictionary; existing unreviewed learned rules move there too. Manual dictionary entries stay active."
 }
