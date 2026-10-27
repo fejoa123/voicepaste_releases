@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "0.1.22",
-  "apk": "apks/VoicePaste-0.1.22.apk",
-  "sha256": "9ecce97dd958a38ddf2061e6ec947eb0b764cbb75de3ac631cfce004f478e7a7",
-  "notes": "Hesitation sounds like um and uh are dropped from dictation. Two items mentioned mid-sentence stay in the sentence instead of becoming a list."
+  "versionCode": 23,
+  "versionName": "0.1.23",
+  "apk": "apks/VoicePaste-0.1.23.apk",
+  "sha256": "a4dadda74a7e1f558ffdc8d81c9992daaa31b7a23ad3f69c25676363bd5d2a28",
+  "notes": "Spelling suggestions are clearer: each one sits in its own box with its own buttons, so you can see which word you are adding. The top banner tells you when suggestions are waiting. Dictionary, Snippets and hidden apps save automatically when you leave. Clearing history or the log asks first. Setup folds away once it's done."
 }
