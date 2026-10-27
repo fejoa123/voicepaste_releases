@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "0.1.21",
-  "apk": "apks/VoicePaste-0.1.21.apk",
-  "sha256": "0874f126993ba6b56e9ce20a327e4c4c850d58dcb901b3f106b2d2c9bd5def53",
-  "notes": "Faster lossless audio preparation with unchanged audio quality. Smart Format preserves dictated wording, names, numbers and negations. Spelling corrections now appear as suggestions for review in Dictionary; existing unreviewed learned rules move there too. Manual dictionary entries stay active."
+  "versionCode": 22,
+  "versionName": "0.1.22",
+  "apk": "apks/VoicePaste-0.1.22.apk",
+  "sha256": "9ecce97dd958a38ddf2061e6ec947eb0b764cbb75de3ac631cfce004f478e7a7",
+  "notes": "Hesitation sounds like um and uh are dropped from dictation. Two items mentioned mid-sentence stay in the sentence instead of becoming a list."
 }
