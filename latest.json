@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "0.1.23",
-  "apk": "apks/VoicePaste-0.1.23.apk",
-  "sha256": "a4dadda74a7e1f558ffdc8d81c9992daaa31b7a23ad3f69c25676363bd5d2a28",
-  "notes": "Spelling suggestions are clearer: each one sits in its own box with its own buttons, so you can see which word you are adding. The top banner tells you when suggestions are waiting. Dictionary, Snippets and hidden apps save automatically when you leave. Clearing history or the log asks first. Setup folds away once it's done."
+  "versionCode": 24,
+  "versionName": "0.1.24",
+  "apk": "apks/VoicePaste-0.1.24.apk",
+  "sha256": "14a80f6bf0ba733cc632b3527a07d5ecfae66e753b1356f27ab95f1a762010b6",
+  "notes": "Tidier formatting: sentences ending in a number or time get their full stop, questions like \"would it be okay if I came at 4\" get a question mark, and documents and AI chats are punctuated even without Smart Format. Emails handle \"Hey, how are you?\", \"kind regards\" and a sign-off like \"thanks heaps Joe\" properly, and spoken addresses like \"joe at gmail dot com\" become real ones. \"Step one, step two…\" makes a list, \"at 3 no sorry 4\" becomes \"at 4\", and \"uh-huh\" is kept."
 }
