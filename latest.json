@@ -1,7 +1,7 @@
 {
-  "versionCode": 26,
-  "versionName": "0.1.26",
-  "apk": "apks/VoicePaste-0.1.26.apk",
-  "sha256": "495b819a50563743ecbd35c6662c8c24ad18bfaa9faa2125ab63721d4d0e7969",
-  "notes": "No more phantom \"Thank you\" or \"Thank you for watching\" in a dictation: stock phrases Whisper invents in a pause or at the end are dropped by their words and timing. Smart Format output loses stray trailing spaces. The bubble's voice thread now fills on your actual speech (quiet talkers and a phone held away get the full swell, room noise stays flat). New app icon: the bubble itself. Also logs why the bubble is hidden, for the update bug."
+  "versionCode": 28,
+  "versionName": "0.1.28",
+  "apk": "apks/VoicePaste-0.1.28.apk",
+  "sha256": "eaa8acbcc83004f3f3d5ffa786e9e18c13edd3756456de40ee5d1d745db4e760",
+  "notes": "The bubble no longer goes missing after it fades away on the home screen (seen on Android 17): a stalled bubble is now spotted and put back up. Emails: 'free and also the doorbell app...' stays one sentence, a stray 'and.' when you restart a sentence is dropped, and 'no on going costs' becomes 'no ongoing costs'."
 }
