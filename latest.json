@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "0.1.28",
-  "apk": "apks/VoicePaste-0.1.28.apk",
-  "sha256": "eaa8acbcc83004f3f3d5ffa786e9e18c13edd3756456de40ee5d1d745db4e760",
-  "notes": "The bubble no longer goes missing after it fades away on the home screen (seen on Android 17): a stalled bubble is now spotted and put back up. Emails: 'free and also the doorbell app...' stays one sentence, a stray 'and.' when you restart a sentence is dropped, and 'no on going costs' becomes 'no ongoing costs'."
+  "versionCode": 29,
+  "versionName": "0.1.29",
+  "apk": "apks/VoicePaste-0.1.29.apk",
+  "sha256": "df9428724a116a8a2a6a6ea3eca71c9d76b60aa91348dc4a7ac3ef1edf28d490",
+  "notes": "Tone levels: Formal, Casual and Very casual change punctuation and capitals only, never your words. Double-tap to switch: tap the bubble, then tap the pill again straight away to flip between Formal and your casual level. The bubble turns warm while casual is on. Set a default per kind of app under Tone in the app."
 }
