@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "0.1.31",
-  "apk": "apks/VoicePaste-0.1.31.apk",
-  "sha256": "37d37dd2ba9dbad8d45844f9d2ba8a44b984af91cbe254991e2f06757d1d00d0",
-  "notes": "Fewer phantom words: a \"Thank you\" that appears when you said nothing is now checked against how loud the recording actually was, and dropped. If it drops something real, tap the retry arrow to send it anyway. Casual tone no longer runs two messages together or skips messages with line breaks. Whisper mode: quiet speech is boosted automatically (Settings > Whisper mode). Transcription now defaults to Whisper large v3, the more accurate model."
+  "versionCode": 32,
+  "versionName": "0.1.32",
+  "apk": "apks/VoicePaste-0.1.32.apk",
+  "sha256": "b6f1836495f4a4577f1e09b31fcca54ac6a6231a463b4d0d26bd03546dc8ba3b",
+  "notes": "Short messages stay in one paragraph: Smart Format no longer puts a blank line after every sentence in chats and AI apps. Paragraphs you ask for and lists are unchanged. Also fixes '100 %' coming out with a stray space."
 }
